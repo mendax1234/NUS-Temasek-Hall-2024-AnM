@@ -22,6 +22,7 @@
 * [🌄Welcome to Rivendell 🌄](find-ur-angel/welcome-to-rivendell.md)
 * [🀄️🧝‍♂️The Elves' Mahjong Curiosity 🧝‍♂️🀄️](find-ur-angel/the-elves-mahjong-curiosity.md)
 * [✨🎮The Endgame 🎮✨](find-ur-angel/the-endgame.md)
+* [Solutions](find-ur-angel/solutions.md)
 
 ## One more thing...
 
